@@ -10,7 +10,7 @@ CAC="[\e[1;33mACTION\e[0m]"
 
 
 mkdir -p ~/tmp && cd ~/tmp
-git clone https://github.com/jswysnemc/.custom_config_for_archlinux/archive/refs/heads/master.zip
+git clone https://github.com/jswysnemc/.custom_config_for_archlinux.git
 
 cd .custom_config_for_archlinux
 

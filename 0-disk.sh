@@ -9,8 +9,6 @@ CWR="[\e[1;35mWARNING\e[0m]"
 CAC="[\e[1;33mACTION\e[0m]"
 
 
-
-
 # cfdisk -> /efi 100M,
 
 # setting timedate
